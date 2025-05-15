@@ -1,0 +1,7 @@
+{
+  "name": "Router",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
